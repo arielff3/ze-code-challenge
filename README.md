@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/coverage-90%25-brightgreen" alt="shield" />
-  <img src="https://api.netlify.com/api/v1/badges/6d390ba4-f867-4cde-8c0d-1707b99a9bf3/deploy-status" alt="shield" />
+  <img src="https://api.netlify.com/api/v1/badges/7edd92f9-1c77-4d7d-99e1-2793e3362aed/deploy-status" alt="shield" />
   <img src="https://img.shields.io/badge/version-1.0.0-red" alt="shield" />
 </p>
 
