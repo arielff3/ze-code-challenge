@@ -6,7 +6,7 @@ const loadSuggestions = async (
 ): Promise<{ value: string; label: string }[]> => {
   const KEY = process.env.MAPKEY || '';
   const request = await api.get(
-    `address?key=${KEY}Results=5&location=${inputValue},BR`,
+    `address?key=${KEY}&Results=5&location=${inputValue},BR`,
   );
   const response = request.data.results[0].locations.filter(
     (location: { adminArea1: string }) => location.adminArea1 === 'BR',
