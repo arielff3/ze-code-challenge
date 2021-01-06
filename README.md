@@ -8,6 +8,12 @@
   <a href="#gear-como-executar">Como executar</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/coverage-90%25-brightgreen" alt="shield" />
+  <img src="https://api.netlify.com/api/v1/badges/6d390ba4-f867-4cde-8c0d-1707b99a9bf3/deploy-status" alt="shield" />
+  <img src="https://img.shields.io/badge/version-1.0.0-red" alt="shield" />
+</p>
+
 <br/>
 
 ## :computer: Projeto
