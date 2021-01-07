@@ -88,6 +88,7 @@ export const BagCard = styled.div`
   gap: 15px;
   margin: 20px 0;
   height: auto;
+  max-height: 200px;
   padding: 15px 10px;
   box-shadow: 0 0 9px 2px rgba(0, 0, 0, 0.3);
 
@@ -137,6 +138,7 @@ export const BagCard = styled.div`
 
   img {
     width: 90px;
+    max-height: 90px;
   }
 `;
 
